@@ -172,5 +172,17 @@
         "url": "https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/",
         "reason": "An episode of Unlocking Us podcast with Brené Brown interviewing Ibram X. Kendi about how to be an antiracist.",
         "cat": "podcast"
+    },
+    {
+        "title": "Why Can't We Teach Slavery Right in American Schools?",
+        "url": "https://www.nytimes.com/interactive/2019/08/19/magazine/slavery-american-schools.html",
+        "reason": "A NY Times article on why slavery is mistaught in American schools.",
+        "cat": "article"
+    },
+    {
+        "title": "Talking to kids about race",
+        "url": "https://www.nationalgeographic.com/family/in-the-news/talking-about-race/",
+        "reason": "An article to help with conversations with kids and not shy away from those conversations is the first step in raising an anti-racist child.",
+        "cat": "article"
     }
 ]
