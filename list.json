@@ -166,5 +166,11 @@
         "url": "https://betterallies.com/more-content/",
         "reason": "An excellent weekly newsletter that shares helpful tips on how to become a better ally.",
         "cat": "newsletter"
+    },
+    {
+        "title": "Brené with Ibram X. Kendi on How to Be an Antiracist",
+        "url": "https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/",
+        "reason": "An episode of Unlocking Us podcast with Brené Brown interviewing Ibram X. Kendi about how to be an antiracist.",
+        "cat": "podcast"
     }
 ]

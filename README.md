@@ -28,6 +28,7 @@
  * [Your Parenting Mojo: Wait, Is My Toddler Racist?](https://yourparentingmojo.com/captivate-podcast/006-wait-is-my-toddler-racist/) - This podcast episode is part of a series on understanding the intersection of race, privilege, and parenting.
  * [Parenting for the Future](https://podcasts.apple.com/us/podcast/parenting-for-the-future/id1481728272) - This podcast covers a lot of great topics around talking about racism with your children.
  * [Throughline: American Police](https://podcasts.apple.com/us/podcast/american-police/id1451109634) - This podcast episode covers the origins of American policing and how those origins put violent control of Black Americans at the heart of the system.
+ * [Brené with Ibram X. Kendi on How to Be an Antiracist](https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/) - An episode of Unlocking Us podcast with Brené Brown interviewing Ibram X. Kendi about how to be an antiracist.
 
 ## Articles
  * [The Death of George Floyd, In Context](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context) - This New Yorker article outlines the details around the incidents that sparked the Black Lives Matter movement in America after the death of George Floyd.
