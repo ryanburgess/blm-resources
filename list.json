@@ -142,5 +142,17 @@
         "url": "https://podcasts.apple.com/us/podcast/parenting-for-the-future/id1481728272",
         "reason": "This podcast covers a lot of great topics around talking about racism with your children.",
         "cat": "podcast"
+    },
+    {
+        "title": "Keep That Normal",
+        "url": "https://medium.com/@Itsvvvvvvvv/keep-that-normal-1eeea904eb94",
+        "reason": "A blog post of reflections of the emotional battle being Black during the COVID pandemic.",
+        "cat": "article"
+    },
+    {
+        "title": "Throughline: American Police",
+        "url": "https://podcasts.apple.com/us/podcast/american-police/id1451109634",
+        "reason": "This podcast episode covers the origins of American policing and how those origins put violent control of Black Americans at the heart of the system.",
+        "cat": "podcast"
     }
 ]
