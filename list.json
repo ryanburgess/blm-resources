@@ -1,0 +1,98 @@
+[
+    {
+        "title": "13th",
+        "url": "https://www.netflix.com/title/80091741",
+        "reason": "This is an excellent documentary on Netflix that outlines the racism towards Black people in America.",
+        "cat": "video"
+    },
+    {
+        "title": "Explained: The Racial Wage Gap",
+        "url": "https://www.netflix.com/title/80216752",
+        "reason": "This short episode of Explained on Netflix does an excellent job explaining the racial wage gap in America.",
+        "cat": "video"
+    },
+    {
+        "title": "Who Killed Malcolm X?",
+        "url": "https://www.netflix.com/title/80217478",
+        "reason": "This documentary series on Netflix covers the historical events around the murder of Malcolm X.",
+        "cat": "video"
+    },
+    {
+        "title": "When They See Us",
+        "url": "https://www.netflix.com/title/80200549",
+        "reason": "This 4 part series on Netflix is the story of the Central Park 5.",
+        "cat": "video"
+    },
+    {
+        "title": "Talks to help you understand racism in America",
+        "url": "https://www.ted.com/playlists/250/talks_to_help_you_understand_r",
+        "reason": "This a good list of TED Talks that help educate about the racism in America.",
+        "cat": "video"
+    },
+    {
+        "title": "Stamped from the Beginning - The Definitive History of Racist Ideas in America",
+        "url": "https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA",
+        "reason": "This is a FREE audio book that does a great job going in depth about the historical racism in America.",
+        "cat": "book"
+    },
+    {
+        "title": "So You Want to Talk about Race",
+        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1",
+        "reason": "This book shares the truths about the realities of racism, power and oppression.",
+        "cat": "book"
+    },
+    {
+        "title": "The Colors of Us",
+        "url": "https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636",
+        "reason": "This book is a positive message that celebrates the differences and similarities that connect all people.",
+        "cat": "book"
+    },
+    {
+        "title": "Waking Up White",
+        "url": "https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I",
+        "reason": "This book explores race with the desire to understand the racial divide.",
+        "cat": "book"
+    },
+    {
+        "title": "1619 (NYTimes)",
+        "url": "https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html",
+        "reason": "This is a podcast series on how slavery has transformed America, connecting past and present through the oldest form of storytelling.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Code Switch",
+        "url": "https://www.npr.org/podcasts/510312/codeswitch",
+        "reason": "This is a great podcast talking about various topics and conversations about race.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Pod Save the People",
+        "url": "https://crooked.com/podcast-series/pod-save-the-people/",
+        "reason": "This podcast offers a unique take on the news, with a special focus on overlooked stories and topics that often impact people of color.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Our National Conversation About Race",
+        "url": "https://www.showaboutrace.com/",
+        "reason": "This podcast is a lively multiracial, interracial conversation about the ways we can’t talk, don’t talk, would rather not talk about race.",
+        "cat": "podcast"
+    },
+    {
+        "title": "The Death of George Floyd, In Context",
+        "url": "https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context",
+        "reason": "This New Yorker article outlines the details around the incidents that sparked the Black Lives Matter movement in America after the death of George Floyd.",
+        "cat": "article"
+    },
+    {
+        "title": "How to Make This Moment the Turning Point for Real Change",
+        "url": "https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067",
+        "reason": "This blog post by Barack Obama talks about how change can happen.",
+        "cat": "article"
+    },
+    {
+        "title": "For Our White Friends Desiring to Be Allies",
+        "url": "https://sojo.net/articles/our-white-friends-desiring-be-allies",
+        "reason": "This is a great article helping to educate people on how they can be strong allies.",
+        "cat": "article"
+    }
+]
