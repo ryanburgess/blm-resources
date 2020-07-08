@@ -190,5 +190,11 @@
         "url": "https://www.nytimes.com/2020/06/02/podcasts/the-daily/george-floyd-protests.html?",
         "reason": "A NY Times podcast around why misconduct procedures are rarely enough to discipline officers using excessive force.",
         "cat": "podcast"
+    },
+    {
+        "title": "Message to White Allies from A Black Anti-Racism Expert: You’re Doing It Wrong",
+        "url": "https://medium.com/progressively-speaking/message-to-white-allies-from-a-black-racial-dialogue-expert-youre-doing-it-wrong-39c09b3908a5",
+        "reason": "An article sharing perspectives for allies to learn from spiritual teachers like the Dalai Lama.",
+        "cat": "article"
     }
 ]

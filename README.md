@@ -40,6 +40,7 @@
  * [My Time as a Black Woman Software Engineer at Capital One](https://code.likeagirl.io/my-time-as-a-black-woman-software-engineer-at-capital-one-5c05fa8faed) - A blog post reflecting on what it's like to be a Black woman in technology.
  * [Why Can't We Teach Slavery Right in American Schools?](https://www.nytimes.com/interactive/2019/08/19/magazine/slavery-american-schools.html) - A NY Times article on why slavery is mistaught in American schools.
  * [Talking to kids about race](https://www.nationalgeographic.com/family/in-the-news/talking-about-race/) - An article to help with conversations with kids and not shy away from those conversations is the first step in raising an anti-racist child.
+ * [Message to White Allies from A Black Anti-Racism Expert: You’re Doing It Wrong](https://medium.com/progressively-speaking/message-to-white-allies-from-a-black-racial-dialogue-expert-youre-doing-it-wrong-39c09b3908a5) - An article sharing perspectives for allies to learn from spiritual teachers like the Dalai Lama.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
