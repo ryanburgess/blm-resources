@@ -35,9 +35,11 @@
  * [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) - This is a great article helping to educate people on how they can be strong allies.
  * [How to Talk to Your Kids About Race and Being Antiracist](https://mommybrain.com/how-to-talk-to-your-kids-about-race-and-being-anti-racist/) - An article with tips on how to talk with your kids about racism and how they can be anti-racist.
  * [Keep That Normal](https://medium.com/@Itsvvvvvvvv/keep-that-normal-1eeea904eb94) - A blog post of reflections of the emotional battle being Black during the COVID pandemic.
+ * [My Time as a Black Woman Software Engineer at Capital One](https://code.likeagirl.io/my-time-as-a-black-woman-software-engineer-at-capital-one-5c05fa8faed) - A blog post reflecting on what it's like to be a Black woman in technology.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
+ * [Better Allies Newsletter](https://betterallies.com/more-content/) - An excellent weekly newsletter that shares helpful tips on how to become a better ally.
 
 ## Contributing 
 1. Fork it

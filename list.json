@@ -154,5 +154,17 @@
         "url": "https://podcasts.apple.com/us/podcast/american-police/id1451109634",
         "reason": "This podcast episode covers the origins of American policing and how those origins put violent control of Black Americans at the heart of the system.",
         "cat": "podcast"
+    },
+    {
+        "title": "My Time as a Black Woman Software Engineer at Capital One",
+        "url": "https://code.likeagirl.io/my-time-as-a-black-woman-software-engineer-at-capital-one-5c05fa8faed",
+        "reason": "A blog post reflecting on what it's like to be a Black woman in technology.",
+        "cat": "article"
+    },
+    {
+        "title": "Better Allies Newsletter",
+        "url": "https://betterallies.com/more-content/",
+        "reason": "An excellent weekly newsletter that shares helpful tips on how to become a better ally.",
+        "cat": "newsletter"
     }
 ]
