@@ -124,5 +124,23 @@
         "url": "https://fernwoodpublishing.ca/book/policing-black-lives",
         "reason": "This book covers the state violence in Canada from slavery to the present.",
         "cat": "book"
+    },
+    {
+        "title": "How to Talk to Your Kids About Race and Being Antiracist",
+        "url": "https://mommybrain.com/how-to-talk-to-your-kids-about-race-and-being-anti-racist/",
+        "reason": "An article with tips on how to talk with your kids about racism and how they can be anti-racist.",
+        "cat": "article"
+    },
+    {
+        "title": "Your Parenting Mojo: Wait, Is My Toddler Racist?",
+        "url": "https://yourparentingmojo.com/captivate-podcast/006-wait-is-my-toddler-racist/",
+        "reason": "This podcast episode is part of a series on understanding the intersection of race, privilege, and parenting.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Parenting for the Future",
+        "url": "https://podcasts.apple.com/us/podcast/parenting-for-the-future/id1481728272",
+        "reason": "This podcast covers a lot of great topics around talking about racism with your children.",
+        "cat": "podcast"
     }
 ]

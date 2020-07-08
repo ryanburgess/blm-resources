@@ -25,11 +25,14 @@
  * [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) - This is a great podcast talking about various topics and conversations about race.
  * [Pod Save the People](https://crooked.com/podcast-series/pod-save-the-people/) - This podcast offers a unique take on the news, with a special focus on overlooked stories and topics that often impact people of color.
  * [Our National Conversation About Race](https://www.showaboutrace.com/) - This podcast is a lively multiracial, interracial conversation about the ways we can’t talk, don’t talk, would rather not talk about race.
+ * [Your Parenting Mojo: Wait, Is My Toddler Racist?](https://yourparentingmojo.com/captivate-podcast/006-wait-is-my-toddler-racist/) - This podcast episode is part of a series on understanding the intersection of race, privilege, and parenting.
+ * [Parenting for the Future](https://podcasts.apple.com/us/podcast/parenting-for-the-future/id1481728272) - This podcast covers a lot of great topics around talking about racism with your children.
 
 ## Articles
  * [The Death of George Floyd, In Context](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context) - This New Yorker article outlines the details around the incidents that sparked the Black Lives Matter movement in America after the death of George Floyd.
  * [How to Make This Moment the Turning Point for Real Change](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) - This blog post by Barack Obama talks about how change can happen.
  * [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) - This is a great article helping to educate people on how they can be strong allies.
+ * [How to Talk to Your Kids About Race and Being Antiracist](https://mommybrain.com/how-to-talk-to-your-kids-about-race-and-being-anti-racist/) - An article with tips on how to talk with your kids about racism and how they can be anti-racist.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
