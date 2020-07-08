@@ -184,5 +184,11 @@
         "url": "https://www.nationalgeographic.com/family/in-the-news/talking-about-race/",
         "reason": "An article to help with conversations with kids and not shy away from those conversations is the first step in raising an anti-racist child.",
         "cat": "article"
+    },
+    {
+        "title": "The Systems that Protect Police",
+        "url": "https://www.nytimes.com/2020/06/02/podcasts/the-daily/george-floyd-protests.html?",
+        "reason": "A NY Times podcast around why misconduct procedures are rarely enough to discipline officers using excessive force.",
+        "cat": "podcast"
     }
 ]
