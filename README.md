@@ -1,6 +1,6 @@
 # Black Lives Matter Resources 
  A list of Black Lives Matter educational material. The BLM list of resources includes books, articles, videos, podcasts, and newsletters. 
- [BLM](blm.png)
+ ![BLM](blm.png)
 
 ## Books
  * [Stamped from the Beginning - The Definitive History of Racist Ideas in America](https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA) - This is a FREE audio book that does a great job going in depth about the historical racism in America.
