@@ -94,5 +94,35 @@
         "url": "https://sojo.net/articles/our-white-friends-desiring-be-allies",
         "reason": "This is a great article helping to educate people on how they can be strong allies.",
         "cat": "article"
+    },
+    {
+        "title": "Black Lives Matter Newsletter",
+        "url": "https://blacklivesmatter.com/sign-up-for-updates/",
+        "reason": "An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.",
+        "cat": "newsletter"
+    },
+    {
+        "title": "Me and White Supremacy",
+        "url": "https://www.meandwhitesupremacybook.com/",
+        "reason": "This book is a good resource for examining and owning responsibility for the ways in which they uphold white supremacy.",
+        "cat": "book"
+    },
+    {
+        "title": "White Fragility",
+        "url": "https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414/",
+        "reason": "A book that explores the counterproductive reactions white people have when their assumptions about race are challenged, and how these reactions maintain racial inequality.",
+        "cat": "book"
+    },
+    {
+        "title": "How To Be An Antiracist",
+        "url": "https://www.ibramxkendi.com/how-to-be-an-antiracist-1",
+        "reason": "This book covers Ibram X. Kendi's concept of antiracism reenergizes and reshapes the conversation about racial justice in America.",
+        "cat": "book"
+    },
+    {
+        "title": "Policing Black Lives",
+        "url": "https://fernwoodpublishing.ca/book/policing-black-lives",
+        "reason": "This book covers the state violence in Canada from slavery to the present.",
+        "cat": "book"
     }
 ]

@@ -6,6 +6,10 @@
  * [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1) - This book shares the truths about the realities of racism, power and oppression.
  * [The Colors of Us](https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636) - This book is a positive message that celebrates the differences and similarities that connect all people.
  * [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I) - This book explores race with the desire to understand the racial divide.
+ * [Me and White Supremacy](https://www.meandwhitesupremacybook.com/) - This book is a good resource for examining and owning responsibility for the ways in which they uphold white supremacy.
+ * [White Fragility](https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414/) - A book that explores the counterproductive reactions white people have when their assumptions about race are challenged, and how these reactions maintain racial inequality.
+ * [How To Be An Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) - This book covers Ibram X. Kendi's concept of antiracism reenergizes and reshapes the conversation about racial justice in America.
+ * [Policing Black Lives](https://fernwoodpublishing.ca/book/policing-black-lives) - This book covers the state violence in Canada from slavery to the present.
 
 ## Videos
  * [13th](https://www.netflix.com/title/80091741) - This is an excellent documentary on Netflix that outlines the racism towards Black people in America.
@@ -26,6 +30,7 @@
  * [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) - This is a great article helping to educate people on how they can be strong allies.
 
 ## Newsletters
+ * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
 
 ## Contributing 
 1. Fork it
