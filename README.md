@@ -41,6 +41,7 @@
  * [Why Can't We Teach Slavery Right in American Schools?](https://www.nytimes.com/interactive/2019/08/19/magazine/slavery-american-schools.html) - A NY Times article on why slavery is mistaught in American schools.
  * [Talking to kids about race](https://www.nationalgeographic.com/family/in-the-news/talking-about-race/) - An article to help with conversations with kids and not shy away from those conversations is the first step in raising an anti-racist child.
  * [Message to White Allies from A Black Anti-Racism Expert: You’re Doing It Wrong](https://medium.com/progressively-speaking/message-to-white-allies-from-a-black-racial-dialogue-expert-youre-doing-it-wrong-39c09b3908a5) - An article sharing perspectives for allies to learn from spiritual teachers like the Dalai Lama.
+ * [My experiences of systemic racism and sexism at Pixar](https://medium.com/@sterling.mom2/my-experiences-of-systemic-racism-and-sexism-at-pixar-a529d1abc7b6) - A Muslim woman shares her experiences dealing with racism and sexism in the workplace.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
