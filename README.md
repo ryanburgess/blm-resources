@@ -43,6 +43,7 @@
  * [Message to White Allies from A Black Anti-Racism Expert: You’re Doing It Wrong](https://medium.com/progressively-speaking/message-to-white-allies-from-a-black-racial-dialogue-expert-youre-doing-it-wrong-39c09b3908a5) - An article sharing perspectives for allies to learn from spiritual teachers like the Dalai Lama.
  * [My experiences of systemic racism and sexism at Pixar](https://medium.com/@sterling.mom2/my-experiences-of-systemic-racism-and-sexism-at-pixar-a529d1abc7b6) - A Muslim woman shares her experiences dealing with racism and sexism in the workplace.
  * [Pinterest Sounds A More Contrite Tone After Black Former Employees Speak Out](https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out) - An example of how Black employees have been treated in tech companies.
+ * [What Black Employee Resource Groups Need Right Now](https://hbr.org/2020/06/what-black-employee-resource-groups-need-right-now) - An article provides good insights into improving ERGs and what Black ERGs need right now.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
