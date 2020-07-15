@@ -22,6 +22,7 @@
  * [Eddie Glaude - This is Us MSNBC](https://www.youtube.com/watch?v=Fe94RTSMh2s&feature=emb_logo) - Eddie Glaude talks about why blaming current racial tensions on Donald Trump misses the point.
  * [Racism Is Real](https://www.youtube.com/watch?v=fTcSVQJ2h8g&feature=emb_logo) - A 3-minute video explaining the differential in the white and black lived experience.
  * [‘Intergroup anxiety’: Can you try too hard to be fair?](https://www.youtube.com/watch?v=UsBpGmUeAsI) - Explores why we may get tongue tied and blunder when we encounter people from groups unfamiliar to us.
+ * [How I Learned to Stop Worrying and Love Discussing Race](https://www.youtube.com/watch?v=MbdxeFcQtaU) - A TEDx talk by Jay Smooth that suggests a new way to think about receiving feedback on our racial blindspots.
 
 ## Podcasts
  * [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - This is a podcast series on how slavery has transformed America, connecting past and present through the oldest form of storytelling.
