@@ -23,6 +23,7 @@
  * [Racism Is Real](https://www.youtube.com/watch?v=fTcSVQJ2h8g&feature=emb_logo) - A 3-minute video explaining the differential in the white and black lived experience.
  * [‘Intergroup anxiety’: Can you try too hard to be fair?](https://www.youtube.com/watch?v=UsBpGmUeAsI) - Explores why we may get tongue tied and blunder when we encounter people from groups unfamiliar to us.
  * [How I Learned to Stop Worrying and Love Discussing Race](https://www.youtube.com/watch?v=MbdxeFcQtaU) - A TEDx talk by Jay Smooth that suggests a new way to think about receiving feedback on our racial blindspots.
+ * [Let's get to the root of racial injustice](https://www.youtube.com/watch?v=-aCn72iXO9s) - A TEDx talk by Megan Ming Francis that traces the root causes of our current racial climate to their core causes, debunking common misconceptions and calling out "fix-all" cures to a complex social problem.
 
 ## Podcasts
  * [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - This is a podcast series on how slavery has transformed America, connecting past and present through the oldest form of storytelling.

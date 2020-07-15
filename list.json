@@ -238,5 +238,11 @@
         "url": "https://www.youtube.com/watch?v=MbdxeFcQtaU",
         "reason": "A TEDx talk by Jay Smooth that suggests a new way to think about receiving feedback on our racial blindspots.",
         "cat": "video"
+    },
+    {
+        "title": "Let's get to the root of racial injustice",
+        "url": "https://www.youtube.com/watch?v=-aCn72iXO9s",
+        "reason": "A TEDx talk by Megan Ming Francis that traces the root causes of our current racial climate to their core causes, debunking common misconceptions and calling out \"fix-all\" cures to a complex social problem.",
+        "cat": "video"
     }
 ]
