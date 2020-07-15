@@ -214,5 +214,23 @@
         "url": "https://hbr.org/2020/06/what-black-employee-resource-groups-need-right-now",
         "reason": "An article provides good insights into improving ERGs and what Black ERGs need right now.",
         "cat": "article"
+    },
+    {
+        "title": "Eddie Glaude - This is Us MSNBC",
+        "url": "https://www.youtube.com/watch?v=Fe94RTSMh2s&feature=emb_logo",
+        "reason": "Eddie Glaude talks about why blaming current racial tensions on Donald Trump misses the point.",
+        "cat": "video"
+    },
+    {
+        "title": "Racism Is Real",
+        "url": "https://www.youtube.com/watch?v=fTcSVQJ2h8g&feature=emb_logo",
+        "reason": "A 3-minute video explaining the differential in the white and black lived experience.",
+        "cat": "video"
+    },
+    {
+        "title": "‘Intergroup anxiety’: Can you try too hard to be fair?",
+        "url": "https://www.youtube.com/watch?v=UsBpGmUeAsI",
+        "reason": "Explores why we may get tongue tied and blunder when we encounter people from groups unfamiliar to us.",
+        "cat": "video"
     }
 ]

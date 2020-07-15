@@ -19,6 +19,9 @@
  * [Who Killed Malcolm X?](https://www.netflix.com/title/80217478) - This documentary series on Netflix covers the historical events around the murder of Malcolm X.
  * [When They See Us](https://www.netflix.com/title/80200549) - This 4 part series on Netflix is the story of the Central Park 5.
  * [Talks to help you understand racism in America](https://www.ted.com/playlists/250/talks_to_help_you_understand_r) - This a good list of TED Talks that help educate about the racism in America.
+ * [Eddie Glaude - This is Us MSNBC](https://www.youtube.com/watch?v=Fe94RTSMh2s&feature=emb_logo) - Eddie Glaude talks about why blaming current racial tensions on Donald Trump misses the point.
+ * [Racism Is Real](https://www.youtube.com/watch?v=fTcSVQJ2h8g&feature=emb_logo) - A 3-minute video explaining the differential in the white and black lived experience.
+ * [‘Intergroup anxiety’: Can you try too hard to be fair?](https://www.youtube.com/watch?v=UsBpGmUeAsI) - Explores why we may get tongue tied and blunder when we encounter people from groups unfamiliar to us.
 
 ## Podcasts
  * [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - This is a podcast series on how slavery has transformed America, connecting past and present through the oldest form of storytelling.
