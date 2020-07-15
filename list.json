@@ -280,5 +280,17 @@
         "url": "https://www.buzzfeed.com/hnigatu/racial-microagressions-you-hear-on-a-daily-basis?utm_term=.ni4bRwobgw#.gwyda5vde5",
         "reason": "An article with a series of photographs that highlight microagressions.",
         "cat": "article"
+    },
+    {
+        "title": "Black Like Me",
+        "url": "https://www.alexgee.com/category/blacklikeme/",
+        "reason": "A podcast that invites you to experience the world through the perspective of one Black man, one conversation, one story, or even one rant at a time.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Mary Bassett: How Does Racism Affect Your Health?",
+        "url": "https://www.kvpr.org/post/mary-bassett-how-does-racism-affect-your-health",
+        "reason": "A podcast episode about how and why race affects the medical attention you receive, your baby’s chances of living, and even life expectancy.",
+        "cat": "podcast"
     }
 ]
