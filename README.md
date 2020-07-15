@@ -50,6 +50,9 @@
  * [My experiences of systemic racism and sexism at Pixar](https://medium.com/@sterling.mom2/my-experiences-of-systemic-racism-and-sexism-at-pixar-a529d1abc7b6) - A Muslim woman shares her experiences dealing with racism and sexism in the workplace.
  * [Pinterest Sounds A More Contrite Tone After Black Former Employees Speak Out](https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out) - An example of how Black employees have been treated in tech companies.
  * [What Black Employee Resource Groups Need Right Now](https://hbr.org/2020/06/what-black-employee-resource-groups-need-right-now) - An article provides good insights into improving ERGs and what Black ERGs need right now.
+ * [How White People Got Made](https://medium.com/message/how-white-people-got-made-6eeb076ade42) - An article that explains where the term “white people” comes from and which ethnic groups have and have not been able to become “white” through US history.
+ * [White Privilege: Unpacking the Invisible Knapsack](http://nationalseedproject.org/peggy-mcintosh-s-white-privilege-papers) - An article by Peggy McIntosh who lists the ways she’s beginning to recognize the way white privilege operates in her life.
+ * [White Fragility](https://libjournal.uncg.edu/ijcp/article/viewFile/249/116) - An article that explains why it can be so hard for white people to talk about race, and how the resulting silence and defensiveness functions to hold racial dynamics and racial oppression in place.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
