@@ -24,6 +24,7 @@
  * [‘Intergroup anxiety’: Can you try too hard to be fair?](https://www.youtube.com/watch?v=UsBpGmUeAsI) - Explores why we may get tongue tied and blunder when we encounter people from groups unfamiliar to us.
  * [How I Learned to Stop Worrying and Love Discussing Race](https://www.youtube.com/watch?v=MbdxeFcQtaU) - A TEDx talk by Jay Smooth that suggests a new way to think about receiving feedback on our racial blindspots.
  * [Let's get to the root of racial injustice](https://www.youtube.com/watch?v=-aCn72iXO9s) - A TEDx talk by Megan Ming Francis that traces the root causes of our current racial climate to their core causes, debunking common misconceptions and calling out "fix-all" cures to a complex social problem.
+ * [How to deconstruct racism, one headline at a time](https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/transcript?utm_source=newsletter_weekly_2019-05-31&utm_campaign=newsletter_weekly&utm_medium=email&utm_content=talk_of_the_week_button) - A TED Talk by Baratunde Thurston that explores patterns revealing our racist framing, language, and behaviors.
 
 ## Podcasts
  * [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - This is a podcast series on how slavery has transformed America, connecting past and present through the oldest form of storytelling.
