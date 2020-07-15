@@ -53,6 +53,7 @@
  * [How White People Got Made](https://medium.com/message/how-white-people-got-made-6eeb076ade42) - An article that explains where the term “white people” comes from and which ethnic groups have and have not been able to become “white” through US history.
  * [White Privilege: Unpacking the Invisible Knapsack](http://nationalseedproject.org/peggy-mcintosh-s-white-privilege-papers) - An article by Peggy McIntosh who lists the ways she’s beginning to recognize the way white privilege operates in her life.
  * [White Fragility](https://libjournal.uncg.edu/ijcp/article/viewFile/249/116) - An article that explains why it can be so hard for white people to talk about race, and how the resulting silence and defensiveness functions to hold racial dynamics and racial oppression in place.
+ * [21 Racial Microaggressions You Hear on a Daily Basis](https://www.buzzfeed.com/hnigatu/racial-microagressions-you-hear-on-a-daily-basis?utm_term=.ni4bRwobgw#.gwyda5vde5) - An article with a series of photographs that highlight microagressions.
 
 ## Newsletters
  * [Black Lives Matter Newsletter](https://blacklivesmatter.com/sign-up-for-updates/) - An email newsletter to get updates about the 2020 election cycle from Black Lives Matter.
