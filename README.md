@@ -39,6 +39,7 @@
  * [The Systems that Protect Police](https://www.nytimes.com/2020/06/02/podcasts/the-daily/george-floyd-protests.html?) - A NY Times podcast around why misconduct procedures are rarely enough to discipline officers using excessive force.
  * [Black Like Me](https://www.alexgee.com/category/blacklikeme/) - A podcast that invites you to experience the world through the perspective of one Black man, one conversation, one story, or even one rant at a time.
  * [Mary Bassett: How Does Racism Affect Your Health?](https://www.kvpr.org/post/mary-bassett-how-does-racism-affect-your-health) - A podcast episode about how and why race affects the medical attention you receive, your baby’s chances of living, and even life expectancy.
+ * [Seeing White](http://www.sceneonradio.org/seeing-white/) - A podcast that covers a lot of the historical events in America that have lead to racism in America.
 
 ## Articles
  * [The Death of George Floyd, In Context](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context) - This New Yorker article outlines the details around the incidents that sparked the Black Lives Matter movement in America after the death of George Floyd.

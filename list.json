@@ -298,5 +298,11 @@
         "url": "https://www.youtube.com/watch?v=riVAuC0dnP4",
         "reason": "A keynote speech by Jacqueline Battalora that offers a blow-by-blow description of the moment the idea of, and word for, “white” people entered U.S. legal code.",
         "cat": "video"
+    },
+    {
+        "title": "Seeing White",
+        "url": "http://www.sceneonradio.org/seeing-white/",
+        "reason": "A podcast that covers a lot of the historical events in America that have lead to racism in America.",
+        "cat": "podcast"
     }
 ]
